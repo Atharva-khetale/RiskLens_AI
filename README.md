@@ -1,4 +1,7 @@
-# 🏦 RiskLens AI — AI-Powered Credit Risk & Loan Analytics Platform
+# 🏦 RiskLens AI
+### AI-Powered Credit Risk & Loan Analytics Platform
+
+🌐 **Live Demo:** https://risklensai-atharvakhetale55.streamlit.app/
 
 RiskLens AI is a full-stack, production-style credit risk assessment platform that
 simulates how a bank or NBFC risk team evaluates borrowers, predicts probability of
