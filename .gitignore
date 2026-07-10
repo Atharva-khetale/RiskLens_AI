@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+data/risklens.db
+data/reports/*.pdf
+data/training_dataset.csv
+models/*.joblib
+models/*.json
+.streamlit/secrets.toml
+.DS_Store
